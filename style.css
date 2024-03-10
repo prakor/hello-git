@@ -1,3 +1,7 @@
 body {
     background: lightgray;
 }
+
+a {
+    text-align: left;
+}
